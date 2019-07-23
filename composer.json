@@ -1,0 +1,17 @@
+{
+    "name": "wanghoneygit\/upload",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuwangwang",
+            "email": "wuwangwang@dxy.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wanghoneygit\\Upload\\": "src"
+        }
+    }
+}
